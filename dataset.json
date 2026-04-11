@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Naperville in the Midwest with a population of over 149k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Naperville, Illinois, US",
+  "export_job_id": "cdb315bb-d57a-432c-9e30-2581a755e5f0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 253537,
+  "location_name": "Naperville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-naperville-illinois-us-sample-253537",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/253537/beamstation_253537_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 4.82,
+  "sample_records": 25,
+  "sample_sha256": "32412d581321e94f7d244328b4c424d82dd22c06948e4f8a1ba5159755aaf1ca",
+  "sample_size_bytes": 118365,
+  "total_records": 519,
+  "updated_at": "2026-03-31T12:45:24.674668+00:00"
+}
