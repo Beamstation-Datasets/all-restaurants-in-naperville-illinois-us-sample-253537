@@ -1,6 +1,6 @@
 # All Restaurants in Naperville, Illinois, US
 
-> Free BeamStation sample export with 58 rows and masked direct-contact fields.
+> Free BeamStation sample export with 55 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `253537` |
 | Location | Naperville |
 | Category | Restaurants |
-| Full dataset size | 583 records |
-| Free sample size | 58 records (9.95%) |
-| Last export | 2026-04-14T12:55:31.054017+00:00 |
+| Full dataset size | 552 records |
+| Free sample size | 55 records (9.96%) |
+| Last export | 2026-04-21T13:52:37.822485+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-naperville-illinois-us-sample-253537/releases/download/sample-latest/beamstation_253537_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
