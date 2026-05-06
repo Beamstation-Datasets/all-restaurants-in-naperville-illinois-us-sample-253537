@@ -1,12 +1,12 @@
 {
-  "export_job_id": "db7436ae-5c5f-4890-a28c-68e038f4c9d6",
+  "export_job_id": "044ef5ae-8241-4756-bc01-ae05990e09bb",
   "id_short": 253537,
-  "published_at": "2026-04-28T19:40:14Z",
+  "published_at": "2026-05-06T07:03:50Z",
   "repo_name": "all-restaurants-in-naperville-illinois-us-sample-253537",
   "sample_asset_name": "beamstation_253537_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/253537/beamstation_253537_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "3e62313b75e21cef4c3587a522519e1e29aa98060734d8314114132b5442a0c8",
-  "sample_size_bytes": 179982,
-  "total_records": 488
+  "sample_records": 63,
+  "sample_sha256": "310c5fbf7a481c87778d601d334a368624a4107d6b4a1862eac7ac13460cb716",
+  "sample_size_bytes": 248076,
+  "total_records": 631
 }
